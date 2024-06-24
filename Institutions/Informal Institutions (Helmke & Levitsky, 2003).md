@@ -1,0 +1,284 @@
+# Metadata
+## Identifiers
+title: Informal Institutions and Comparative Politics: A Research Agenda
+author(s): Gretchen #Helmke and Steven #Levitsky
+year: #y2003
+citation: 
+link:
+
+## Linkers
+
+sub-theme(s): #Institutions #Informal_Institutions 
+keywords:
+
+## TLDR
+
+RQ:
+Main Argument:
+DV:
+IV:
+Cases:
+Main Findings:
+Data:
+Method:
+Empirical Evidence: 
+How does the evidence map onto the theoretical argument: 
+
+# Long Summary
+
+**Informal Institutions and Comparative Politics: A Research Agenda**
+
+Gretchen Helmke and Steven Levitsky
+
+This article broadens the scope of comparative research on political
+institutions by laying the foundation for a systematic analysis of
+informal rules. Their approach is simple: institutional analysis
+requires rigorous attention to both formal and informal rules. Careful
+attention to informal institutions (Further II) is critical to
+understanding the incentives that enable and constrain political
+behavior. In some instances, informal incentives trump the formal ones
+(for example culture of corruption).
+
+Here authors Describe different areas where informal rules/institutions
+have impact
+
+-   Consideration of informal rules is often critical to explaining
+    institutional outcomes.
+
+-   Informal institutions also mediate the effects of electoral rules.
+
+-   Informal institutions also shape formal institutional outcomes in a
+    less visible way: by creating or strengthening incentives to comply
+    with formal rules (enabling and constraining effect)
+
+-   Informal rules shape formal institutional outcomes in areas such as
+    legislative politics, judicial politics, party organization,
+    campaign finance, regime change, federalism, public administration,
+    and state building.
+
+**What Informal Institutions Are (and Are Not)**
+
+*Institutions as rules and procedures (both formal and informal) that
+structure social interaction by constraining and enabling actors\'
+behavior.* The authors review several definitions for difference between
+formal and informal institutions and reject them and suggest their
+definition:
+
+*Informal institutions as socially shared rules, usually unwritten, that
+are created, communicated, and enforced outside of officially sanctioned
+channels.*
+
+By contrast formal institutions go through channels widely accepted as
+official.
+
+Four important features that are not part of II's definition:
+
+-   Formal institutions should be distinguished from weak institutions.
+    Weakness of formal institutions may bring informal institutions but
+    those two things are separate. Clientelism is II while abuse of
+    executive authority is non-institutional behavior.
+
+-   II must be distinguished from other informal behavioral
+    regularities. Removing one\'s hat in church is an II, whereas
+    removing one\'s coat in a restaurant is simply a behavioral
+    regularity (no Social disapproval or sanction)
+
+-   II should be distinguished from informal organizations. It is about
+    distinction between actors (or \"players\") from the rules they
+    follow.
+
+-   Distinction between II and the broader concept of culture. II are
+    shared expectations rather than shared values.
+
+**Four Types of Informal Institution**
+
+Typology aimed at capturing the relationship between formal and informal
+institutions.
+
+One camp (of scholars) treats IIs as *functional*, or problem solving,
+in that they provide solutions to problems of social interaction and
+coordination. A second camp treats IIs as *dysfunctional*, or problem
+creating. However, recent studies suggest a more complex picture in
+which IIs at times reinforce or substitute for the formal institutions
+they appear to undermine.
+
+To capture these differences, authors' typology is based on two
+dimensions:
+
+-   Degree to which formal and informal institutional outcomes converge
+
+-   Effectiveness of the relevant formal institution (extent to which
+    rules and procedures that exist on paper are enforced and complied
+    with in practice)
+
+These two dimensions produce the fourfold typology shown in the table.
+Complementary correspond to the functional while competing correspond to
+dysfunctional.
+
+**Complementary IIs**
+
+Such institutions \"fill in gaps\" either by addressing contingencies
+not dealt with in the formal rules or by facilitating the pursuit of
+individual goals within the formal institutional framework. Such IIs
+Enhance efficiency. Creating or strengthening incentives to comply with
+formal rules that might otherwise exist merely on paper (example:
+effectiveness of the U.S. Constitution to a complementary set of shared
+beliefs and expectations among citizens). IIs play a key role in making
+effective the formal rules of the game.
+
+**Accommodating IIs**
+
+These IIs create incentives to behave in ways that alter the substantive
+effects of formal rules, but without directly violating them. Help to
+reconcile interests of those who dislike outcomes generated by the
+formal rule with the existing formal institutional arrangements. Hence,
+although accommodating IIs may not be efficiency enhancing, they may
+enhance the stability of formal institutions by dampening demands for
+change. Authors give several examples here is one of them: Adherence to
+the formal rules governing Soviet political and economic life did not
+allow enterprises to fulfill state targets or permit individuals to meet
+basic needs, a set of informal norms-commonly known as *blat*-emerged in
+which individuals met these goals through personal networks. Not
+strictly illegal, blat enabled factory managers, workers, and
+bureaucrats to \"find a way around formal procedures.
+
+**Competing IIs**
+
+These IIs structure incentives in ways that are incompatible with the
+formal rules: to follow one rule, actors must violate another
+(clientelism, patrimonialism, clan politics, and corruption). Postwar
+Italian corruption was embedded in \"alternative norms\" under which
+actors could violate certain state laws \"with impunity", whereas those
+who adhered to the law \"met with certain punishment.\"
+
+**Substitutive IIs**
+
+Employed by actors who seek outcomes compatible with formal rules and
+procedures, However, they exist in environments where formal rules are
+not routinely enforced. Tend to emerge where state structures are weak
+or lack authority. For instance, "gentleman\'s agreements". Here is one
+of the examples: In rural northern Peru, where state weakness resulted
+in inadequate police protection and ineffective courts during the late
+1970s, citizens created informal self-defense patrols to defend their
+communities and informal courts to resolve local disputes.
+
+**Origins of Informal Institutions**
+
+Why Informal Institutions?
+
+Why, given the existence of a set of formal rules and rule-making
+mechanisms, do actors choose to create informal rules? Building on the
+previous section, authors see three general motivations: 1. Because
+formal institutions are incomplete. Actors operating within a particular
+formal institutional context, develop norms and procedures that expedite
+their work or address problems not anticipated by formal rule.
+
+2\. IIs may be a \"second best\" strategy for actors who prefer, but
+cannot achieve, a formal institutional solution. In some cases, actors
+simply lack the power to change the formal rule. In other words, actors
+create IIs when they deem it less costly than creating formal
+institutions to their liking. Inventing IIs may also be a second-best
+strategy, where formal institutions exist on paper but are ineffective
+in practice. Actors create informal structures not because they dislike
+the formal rules, but because the existing rules-and rule-making
+processes-lack credibility.
+
+3\. Pursuit of goals not considered publicly acceptable. Because they
+are relatively inconspicuous, IIs allow actors to pursue activities that
+are ranging from the unpopular to the illegal (Prostitution, soft drug
+use, and euthanasia).
+
+Informal institutions may also be created in pursuit of goals that are
+not internationally acceptable. Fro instance countries like Belarus,
+Kazakhstan, Kenya, Peru, Russia, Ukraine, and Zimbabwe resorted to
+informal mechanisms of coercion and control.
+
+**How Informal Institutions are Created and Communicated**
+
+informal rules are created, communicated, and enforced outside of public
+channels, and usually outside of the public eye.
+
+-   "Top down" process of emergence: Informal institutions may be a
+    product of elite design and imposition or out of elite-level
+    strategic interaction (rules of decision making in specific
+    organization).
+
+-   Decentralized process involving a much larger number (corruption,
+    clientelism, blat) actors
+
+In either process, we may understand mechanisms of emergence in terms of
+focal points, repeated interaction, or bargaining.
+
+Alternatively, informal institutional creation may be a historically
+contingent process in which informal structures are an unintended
+product of particular conflicts and compromise.
+
+It is also important to identify actors who communicated the rules
+
+-   In some cases, informal institutionalization appears to be a process
+    of social learning through widely observed instances of trial and
+    error.
+
+-   Social networks and political organizations may also transmit
+    informal rule (for instance corruption)
+
+**Informal Institutional**
+
+Informal institutions are often characterized as highly resistant to
+change. Since informal rules \"do not possess a center which directs and
+co-ordinates their actions,\" informal institutional change is likely to
+be an \"extremely lengthy\" process. Yet informal institutions do
+change-and often quite quickly.
+
+Several sources may generate the impetus for informal institutional
+change.
+
+-   formal institutional change (the extent that formal institutional
+    change alters the costs and benefits of adhering to particular
+    informal rules)
+
+    -   Change in formal institutional design. In the case of
+        complementary informal institutions, for example, modifying the
+        relevant formal rules may change the nature of the gaps that the
+        informal institution had been designed to address
+
+    -   Changes in formal institutional strength or effectiveness (level
+        of enforcement of formal rules alter the costs and benefit). For
+        example, compliance with competing informal institutions becomes
+        more costly with increased enforcement of the formal rule.
+
+-   Informal institutions may also change as the status quo conditions
+    that sustain them change
+
+> Figure 2 summarizes these sources of informal institutional change
+
+**Research Challenges: Identification, Measurement, and Comparison**
+
+Identifying informal institutions is more challenging. A country\'s
+constitution can tell us whether it has a presidential or parliamentary
+system of government, but it cannot tell us about the pervasiveness of
+clientelism or kinship networks
+
+Efforts to identify informal institutions should answer three basic
+question:
+
+What are the actors\' shared expectations about the actual constraints
+they face?
+
+What is the community to which the informal rules apply?
+
+How are informal rules enforced?
+
+Identifying the shared expectations and enforcement mechanisms that
+sustain informal institutions is a challenging task, requiring in most
+cases substantial knowledge of the community within which the informal
+institutions are embedded. This mean a lot of filed work and studies of
+N=1or theoretical studies (N=0) or small N comparison.
+
+Small-n analyses can begin to identify patterns of informal
+institutional effects, formal-informal institutional interaction, and
+informal institutional change.
+
+Large-n surveys may also prove useful in research on infor- mal
+institutions. Survey research may capture actors\' expec- tations and
+beliefs about the \"actual\" rules of the game.
