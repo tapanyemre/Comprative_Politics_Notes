@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+title: [Comparative Politics Summaries]
+description: [This website is a collaborative platform dedicated to preserving and sharing the foundational literature of political science. Created by multiple cohorts of Ph.D. students from Northeastern University's Department of Political Science, our goal is to provide a comprehensive repository of notes and summaries from early political science readings, serving as a timeless resource for students and scholars alike.]
