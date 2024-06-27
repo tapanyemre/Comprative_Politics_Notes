@@ -1,0 +1,2 @@
+
+**PoliSciHeritage** is a collaborative platform dedicated to preserving and sharing the foundational literature of political science. Created by multiple cohorts of Ph.D. students from Northeastern University's Department of Political Science, our goal is to provide a comprehensive repository of notes and summaries from early political science readings, serving as a timeless resource for students and scholars alike.
